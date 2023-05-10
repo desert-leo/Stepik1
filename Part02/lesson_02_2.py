@@ -21,5 +21,5 @@
 # print('Привет,', name)
 # name = input('Как тебя зовут??? ')
 # print('Привет,', name)
-name = input('Введите имя')
-print(name, '- Привет')
+# name = input('Введите имя')
+# print(name, '- Привет')
